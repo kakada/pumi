@@ -1,5 +1,13 @@
 ---
 districts:
+  '0000':
+    name:
+      km: ក្រៅពីស្រុកសាកល្បង
+      latin: Beside piloting districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0102':
     name:
       km: មង្គលបូរី

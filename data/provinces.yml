@@ -1,5 +1,13 @@
 ---
 provinces:
+  '00':
+    name:
+      km: ក្រៅពីខេត្តសាកល្បង
+      latin: Beside piloting provinces
+    administrative_unit:
+      km: ខេត្ត
+      latin: Khaet
+      en: Province
   '01':
     name:
       km: បន្ទាយមានជ័យ
