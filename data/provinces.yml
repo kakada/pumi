@@ -2,8 +2,8 @@
 provinces:
   '00':
     name:
-      km: ក្រៅពីខេត្តសាកល្បង
-      latin: Beside piloting provinces
+      km: ខេត្តផ្សេងៗ (ក្រៅពីខេត្តសាកល្បង)
+      latin: Other provinces (Beside piloting Provinces)
     administrative_unit:
       km: ខេត្ត
       latin: Khaet

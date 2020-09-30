@@ -2,8 +2,8 @@
 districts:
   '0000':
     name:
-      km: ក្រៅពីស្រុកសាកល្បង
-      latin: Beside piloting districts
+      km: ស្រុកផ្សេងៗ (ក្រៅពីស្រុកសាកល្បង)
+      latin: Other districts (Beside piloting districts)
     administrative_unit:
       km: ស្រុក
       latin: Srok
