@@ -8,6 +8,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  '0100':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0102':
     name:
       km: មង្គលបូរី
@@ -80,6 +88,14 @@ districts:
       km: ក្រុង
       latin: Krong
       en: Municipality
+  '0200':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0201':
     name:
       km: បាណន់
@@ -192,6 +208,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  '0300':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0301':
     name:
       km: បាធាយ
@@ -272,6 +296,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  '0400':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0401':
     name:
       km: បរិបូណ៌
@@ -336,6 +368,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  '0500':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0501':
     name:
       km: បរសេដ្ឋ
@@ -396,6 +436,14 @@ districts:
     name:
       km: ថ្ពង
       latin: Thpong
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
+  '0600':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -472,6 +520,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  '0700':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0701':
     name:
       km: អង្គរជ័យ
@@ -536,6 +592,14 @@ districts:
       km: ក្រុង
       latin: Krong
       en: Municipality
+  '0800':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0801':
     name:
       km: កណ្ដាលស្ទឹង
@@ -624,6 +688,14 @@ districts:
       km: ក្រុង
       latin: Krong
       en: Municipality
+  '0900':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '0901':
     name:
       km: បុទុមសាគរ
@@ -680,6 +752,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  '1000':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1001':
     name:
       km: ឆ្លូង
@@ -728,6 +808,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  '1100':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1101':
     name:
       km: កែវសីមា
@@ -768,6 +856,14 @@ districts:
       km: ក្រុង
       latin: Krong
       en: Municipality
+  '1200':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1201':
     name:
       km: ចំការមន
@@ -880,6 +976,14 @@ districts:
       km: ខណ្ឌ
       latin: Khan
       en: Section
+  '1300':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1301':
     name:
       km: ជ័យសែន
@@ -944,6 +1048,14 @@ districts:
       km: ក្រុង
       latin: Krong
       en: Municipality
+  '1400':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1401':
     name:
       km: បាភ្នំ
@@ -1048,6 +1160,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  '1500':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1501':
     name:
       km: បាកាន
@@ -1100,6 +1220,14 @@ districts:
     name:
       km: តាលោសែនជ័យ
       latin: Ta Lou Senchey
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
+  '1600':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1172,6 +1300,14 @@ districts:
     name:
       km: វើនសៃ
       latin: Veun Sai
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
+  '1700':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1272,6 +1408,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  '1800':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1801':
     name:
       km: ព្រះសីហនុ
@@ -1312,6 +1456,14 @@ districts:
       km: ក្រុង
       latin: Krong
       en: Municipality
+  '1900':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '1901':
     name:
       km: សេសាន
@@ -1356,6 +1508,14 @@ districts:
     name:
       km: បុរីអូរស្វាយសែនជ័យ
       latin: Borei Ou Svay Senchey
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
+  '2000':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
     administrative_unit:
       km: ស្រុក
       latin: Srok
@@ -1424,6 +1584,14 @@ districts:
       km: ក្រុង
       latin: Krong
       en: Municipality
+  '2100':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2101':
     name:
       km: អង្គរបូរី
@@ -1504,6 +1672,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  '2200':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2201':
     name:
       km: អន្លង់វែង
@@ -1544,6 +1720,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  '2300':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2301':
     name:
       km: ដំណាក់ចង្អើរ
@@ -1560,6 +1744,14 @@ districts:
       km: ក្រុង
       latin: Krong
       en: Municipality
+  '2400':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
   '2401':
     name:
       km: ប៉ៃលិន
@@ -1572,6 +1764,14 @@ districts:
     name:
       km: សាលាក្រៅ
       latin: Sala Krau
+    administrative_unit:
+      km: ស្រុក
+      latin: Srok
+      en: District
+  '2500':
+    name:
+      km: ស្រុកផ្សេងៗ
+      latin: Other districts
     administrative_unit:
       km: ស្រុក
       latin: Srok
