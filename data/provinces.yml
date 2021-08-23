@@ -1,6 +1,6 @@
 ---
 provinces:
-  '00':
+  "00":
     name:
       km: ខេត្តផ្សេងៗ (ក្រៅពីខេត្តសាកល្បង)
       latin: Other provinces (Beside piloting Provinces)
@@ -8,7 +8,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '01':
+  "01":
     name:
       km: បន្ទាយមានជ័យ
       latin: Banteay Meanchey
@@ -16,7 +16,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '02':
+  "02":
     name:
       km: បាត់ដំបង
       latin: Battambang
@@ -24,7 +24,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '03':
+  "03":
     name:
       km: កំពង់ចាម
       latin: Kampong Cham
@@ -32,7 +32,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '04':
+  "04":
     name:
       km: កំពង់ឆ្នាំង
       latin: Kampong Chhnang
@@ -40,7 +40,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '05':
+  "05":
     name:
       km: កំពង់ស្ពឺ
       latin: Kampong Speu
@@ -48,7 +48,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '06':
+  "06":
     name:
       km: កំពង់ធំ
       latin: Kampong Thom
@@ -56,7 +56,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '07':
+  "07":
     name:
       km: កំពត
       latin: Kampot
@@ -64,7 +64,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '08':
+  "08":
     name:
       km: កណ្ដាល
       latin: Kandal
@@ -72,7 +72,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '09':
+  "09":
     name:
       km: កោះកុង
       latin: Koh Kong
@@ -80,7 +80,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '10':
+  "10":
     name:
       km: ក្រចេះ
       latin: Kratie
@@ -88,7 +88,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '11':
+  "11":
     name:
       km: មណ្ឌលគិរី
       latin: Mondul Kiri
@@ -96,7 +96,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '12':
+  "12":
     name:
       km: ភ្នំពេញ
       latin: Phnom Penh
@@ -104,7 +104,7 @@ provinces:
       km: រាជធានី
       latin: Reach Theani
       en: Capital
-  '13':
+  "13":
     name:
       km: ព្រះវិហារ
       latin: Preah Vihear
@@ -112,7 +112,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '14':
+  "14":
     name:
       km: ព្រៃវែង
       latin: Prey Veng
@@ -120,7 +120,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '15':
+  "15":
     name:
       km: ពោធិ៍សាត់
       latin: Pursat
@@ -128,7 +128,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '16':
+  "16":
     name:
       km: រតនគិរី
       latin: Ratanak Kiri
@@ -136,7 +136,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '17':
+  "17":
     name:
       km: សៀមរាប
       latin: Siemreap
@@ -144,7 +144,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '18':
+  "18":
     name:
       km: ព្រះសីហនុ
       latin: Preah Sihanouk
@@ -152,7 +152,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '19':
+  "19":
     name:
       km: ស្ទឹងត្រែង
       latin: Stung Treng
@@ -160,7 +160,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '20':
+  "20":
     name:
       km: ស្វាយរៀង
       latin: Svay Rieng
@@ -168,7 +168,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '21':
+  "21":
     name:
       km: តាកែវ
       latin: Takeo
@@ -176,7 +176,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '22':
+  "22":
     name:
       km: ឧត្ដរមានជ័យ
       latin: Oddar Meanchey
@@ -184,7 +184,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '23':
+  "23":
     name:
       km: កែប
       latin: Kep
@@ -192,7 +192,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '24':
+  "24":
     name:
       km: ប៉ៃលិន
       latin: Pailin
@@ -200,7 +200,7 @@ provinces:
       km: ខេត្ត
       latin: Khaet
       en: Province
-  '25':
+  "25":
     name:
       km: ត្បូងឃ្មុំ
       latin: Tboung Khmum
