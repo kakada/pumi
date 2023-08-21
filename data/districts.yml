@@ -88,6 +88,14 @@ districts:
       km: ក្រុង
       latin: Krong
       en: Municipality
+  "0198":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "0199":
     name:
       km: អង្គភាពខេត្តបន្ទាយមានជ័យ
@@ -216,6 +224,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  "0298":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "0299":
     name:
       km: អង្គភាពខេត្តបាត់ដំបង
@@ -312,6 +328,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  "0398":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "0399":
     name:
       km: អង្គភាពខេត្តកំពង់ចាម
@@ -392,6 +416,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  "0498":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "0499":
     name:
       km: អង្គភាពខេត្តកំពង់ឆ្នាំង
@@ -472,6 +504,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  "0598":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "0599":
     name:
       km: អង្គភាពខេត្តកំពង់ស្ពឺ
@@ -560,6 +600,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  "0698":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "0699":
     name:
       km: អង្គភាពខេត្តកំពង់ធំ
@@ -640,6 +688,14 @@ districts:
       km: ក្រុង
       latin: Krong
       en: Municipality
+  "0798":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "0799":
     name:
       km: អង្គភាពខេត្តកំពត
@@ -744,6 +800,14 @@ districts:
       km: ក្រុង
       latin: Krong
       en: Municipality
+  "0898":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "0899":
     name:
       km: អង្គភាពខេត្តកណ្ដាល
@@ -816,6 +880,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  "0998":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "0999":
     name:
       km: អង្គភាពខេត្តកោះកុង
@@ -880,6 +952,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  "1098":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "1099":
     name:
       km: អង្គភាពខេត្តក្រចេះ
@@ -936,6 +1016,14 @@ districts:
       km: ក្រុង
       latin: Krong
       en: Municipality
+  "1198":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "1199":
     name:
       km: អង្គភាពខេត្តមណ្ឌលគិរី
@@ -1064,6 +1152,14 @@ districts:
       km: ខណ្ឌ
       latin: Khan
       en: Section
+  "1298":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "1299":
     name:
       km: អង្គភាពភ្នំពេញ
@@ -1144,6 +1240,14 @@ districts:
       km: ក្រុង
       latin: Krong
       en: Municipality
+  "1398":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "1399":
     name:
       km: អង្គភាពខេត្តព្រះវិហារ
@@ -1264,6 +1368,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  "1498":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "1499":
     name:
       km: អង្គភាពខេត្តព្រៃវែង
@@ -1336,6 +1448,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  "1598":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "1599":
     name:
       km: អង្គភាពខេត្តពោធិ៍សាត់
@@ -1424,6 +1544,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  "1698":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "1699":
     name:
       km: អង្គភាពខេត្តរតនគិរី
@@ -1536,6 +1664,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  "1798":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "1799":
     name:
       km: អង្គភាពខេត្តសៀមរាប
@@ -1592,6 +1728,14 @@ districts:
       km: ក្រុង
       latin: Krong
       en: Municipality
+  "1898":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "1899":
     name:
       km: អង្គភាពខេត្តព្រះសីហនុ
@@ -1656,6 +1800,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  "1998":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "1999":
     name:
       km: អង្គភាពខេត្តស្ទឹងត្រែង
@@ -1736,6 +1888,14 @@ districts:
       km: ក្រុង
       latin: Krong
       en: Municipality
+  "2098":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "2099":
     name:
       km: អង្គភាពខេត្តស្វាយរៀង
@@ -1832,6 +1992,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  "2198":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "2199":
     name:
       km: អង្គភាពខេត្តតាកែវ
@@ -1888,6 +2056,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  "2298":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "2299":
     name:
       km: អង្គភាពខេត្តឧត្ដរមានជ័យ
@@ -1920,6 +2096,14 @@ districts:
       km: ក្រុង
       latin: Krong
       en: Municipality
+  "2398":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "2399":
     name:
       km: អង្គភាពខេត្តកែប
@@ -1952,6 +2136,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  "2498":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "2499":
     name:
       km: អង្គភាពខេត្តប៉ៃលិន
@@ -2024,6 +2216,14 @@ districts:
       km: ស្រុក
       latin: Srok
       en: District
+  "2598":
+    name:
+      km: សាលាឃុំ/សង្កាត់
+      latin: Commune OWSO
+    administrative_unit:
+      km: ""
+      latin: ""
+      en: ""
   "2599":
     name:
       km: អង្គភាពខេត្តត្បូងឃ្មុំ
